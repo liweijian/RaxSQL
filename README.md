@@ -1,6 +1,6 @@
 # RaxSQL
 
-A weekend project to learn and study the core "Fastest Majority" algorithm from PhxSQL.
+[A weekend project](https://www.supasaf.com/blog/general/phxsql) to learn and study the core "Fastest Majority" algorithm from [PhxSQL](https://github.com/Tencent/phxsql).
 
 ## 📖 What is this?
 This is a simple implementation of a distributed SQL database using the Raft consensus algorithm, built to understand how PhxSQL's "Fastest Majority" optimization works in cross-region deployments.
